@@ -29,9 +29,9 @@ require (
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8
 	knative.dev/client-pkg v0.0.0-20241022130700-7b4bb48ac250
 	knative.dev/eventing v0.43.0
-	knative.dev/networking v0.0.0-20241022012959-60e29ff520dc
-	knative.dev/pkg v0.0.0-20241021183759-9b9d535af5ad
-	knative.dev/serving v0.43.0
+	knative.dev/networking v0.0.0-20241024133702-c254dbf39860
+	knative.dev/pkg v0.0.0-20241024133302-6af2bf9747e9
+	knative.dev/serving v0.43.1-0.20241024134208-e8e7de578464
 	sigs.k8s.io/yaml v1.4.0
 )
 
