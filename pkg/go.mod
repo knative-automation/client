@@ -13,7 +13,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/afero v1.15.0 // indirect
 	github.com/spf13/cobra v1.10.2
-	github.com/spf13/pflag v1.0.10
+	github.com/spf13/pflag v1.1.0
 	github.com/spf13/viper v1.21.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.28.0
@@ -26,10 +26,10 @@ require (
 	k8s.io/cli-runtime v0.34.1
 	k8s.io/client-go v0.36.5
 	k8s.io/utils v0.0.0-20260210185600-b8788abfbbc2
-	knative.dev/eventing v0.51.1-0.20261106033240-495a0f9afe89
-	knative.dev/networking v0.0.0-20261106012327-9f5722280cfd
-	knative.dev/pkg v0.0.0-20261106011441-a8ce7f3f6f84
-	knative.dev/serving v0.51.1-0.20261110122020-ac8f13e9ff3a
+	knative.dev/eventing v0.51.1-0.20261120091558-51e4a52410b6
+	knative.dev/networking v0.0.0-20261118131657-750057eba445
+	knative.dev/pkg v0.0.0-20261118131257-b2f62414bc1e
+	knative.dev/serving v0.51.1-0.20261120122059-0fb9d027cdf0
 	sigs.k8s.io/yaml v1.6.0
 )
 
